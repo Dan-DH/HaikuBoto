@@ -8,7 +8,7 @@
 
 HaikuBoto is a Reddit bot written in Python. It combs through the comments of the hottest posts in r/all, looking for phrases that are 17 syllables long.
 
-If the comment can be divided into three verses of 5-7-5 syllables without splitting words in half, HaikuBoto will reply to the comment with the formatted haiku. He will also log the comment and user ID of the author in a SQLite database for posterity.
+If the comment can be divided into three verses of 5-7-5 syllables without splitting words in half, HaikuBoto will reply to the comment with the formatted haiku. It will also log the comment and user ID of the author in a SQLite database for posterity.
 
 ### Why is HaikuBoto?
 
