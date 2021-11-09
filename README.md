@@ -26,7 +26,7 @@ Because sometimes people write poetry without realizing it, and you get to put a
 
 Fork it and run it! You will need a Reddit account and a [Reddit Api key](https://www.reddit.com/wiki/api). You will have to add the account and key credentials to the script so HaikuBoto can connect to Reddit. You can do so on lines 38 to 45 of the script.
 
-The subreddit and the number of posts to check can be modified in lines 52 and 74 respectively. By default it checks the comments of the first 100 posts o r/all, filtered by hot.
+The subreddit and the number of posts to check can be modified on lines 52 and 74 respectively. By default it checks the comments of the first 100 posts o r/all, filtered by hot.
 
 You will need to comment out the SQLite parts, unless you are setting up your own database.
 
